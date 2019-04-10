@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Container",
-	"short_name": "Container",
+	"name": "Family",
+	"short_name": "Family",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
